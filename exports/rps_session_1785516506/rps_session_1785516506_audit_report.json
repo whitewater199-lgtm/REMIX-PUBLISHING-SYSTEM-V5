@@ -1,0 +1,42 @@
+{
+  "session_id": "rps_session_1785516506",
+  "manuscript_meta": {
+    "provenance_hash": "2a0e19701014a534a1ac23a47a5d6b426009fb539c55258ae8278b96c6fc63c5",
+    "word_count": 115,
+    "paragraph_count": 3
+  },
+  "audit_results": {
+    "hii": {
+      "hii_score": 948,
+      "gate_g8_passed": true,
+      "dimension_scores": {
+        "hook_potency": 9.5,
+        "narrative_tension": 9.2,
+        "exegetical_depth": 9.6,
+        "resolution_clarity": 9.4,
+        "actionability": 9.7
+      },
+      "sticky_lines_found": [
+        "Polish the following text:",
+        "\"Refine the following text:"
+      ]
+    },
+    "lcvi": {
+      "lcvi_score": 9.1,
+      "gate_g9_passed": true,
+      "dimension_scores": {
+        "filler_word_elimination": 9.2,
+        "passive_voice_density": 8.9,
+        "rhythmic_cadence": 9.3,
+        "jargon_purity": 9.0
+      },
+      "clutter_word_count": 3
+    }
+  },
+  "formats_generated": [
+    "kindle",
+    "paperback",
+    "pdf",
+    "audiobook"
+  ]
+}
